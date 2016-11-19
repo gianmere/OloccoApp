@@ -1,0 +1,16 @@
+<ion-view view-title="Dettaglio Prodotto">
+    <ion-content overflow-scroll="true">
+        <div class="row" on-swipe-right="onSwipeRight()" on-swipe-left="onSwipeLeft()">
+            <div class="col col-50">
+                <h2>{{image.title}}</h2>
+                <div ng-bind-html="trustedHtml" style="text-align: justify"></div>
+            </div>
+
+            <div class="col col-50 item item-image" style="height: auto">
+                <ion-scroll direction="xy" locking="false" zooming="true" min-zoom="1">
+                    <img ng-src="{{image.url}}"/>
+                </ion-scroll>
+            </div>
+        </div>
+    </ion-content>
+</ion-view>

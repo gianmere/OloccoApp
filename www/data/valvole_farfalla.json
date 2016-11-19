@@ -1,0 +1,5 @@
+{
+    "images": [{"id":0, "title":"VPF", "descrizione":"img/valvole_farfalla/vpf.txt", "thumb":"img/valvole_farfalla/vpf-icona.jpg", "url":"img/valvole_farfalla/vpf.jpg"},
+        {"id":1, "title":"UPG", "descrizione":"img/valvole_farfalla/upg.txt", "thumb":"img/valvole_farfalla/upg-icona.jpg" ,"url":"img/valvole_farfalla/upg.jpg"}
+        ]
+}

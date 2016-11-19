@@ -1,0 +1,6 @@
+{
+    "images": [{"id":0, "title":"VPD", "descrizione":"img/valvole_deviatrici/vpd.txt", "thumb":"img/valvole_deviatrici/vpd-icona.jpg", "url":"img/valvole_deviatrici/vpd.jpg"},
+        {"id":1, "title":"VDM", "descrizione":"img/valvole_deviatrici/vdm.txt", "thumb":"img/valvole_deviatrici/vdm-icona.jpg" ,"url":"img/valvole_deviatrici/vdm.jpg"},
+        {"id":2, "title":"VPT", "descrizione":"img/valvole_deviatrici/vpt.txt" ,"thumb":"img/valvole_deviatrici/vpt-icona.jpg", "url":"img/valvole_deviatrici/vpt.jpg"}
+        ]
+}

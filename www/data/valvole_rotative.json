@@ -1,0 +1,13 @@
+{
+    "images": [{"id":0, "title":"VPS", "descrizione":"img/valvole_rotative/olocco-vps.txt", "thumb":"img/valvole_rotative/olocco-vps-icona.jpg", "url":"img/valvole_rotative/olocco-vps.jpg"},
+        {"id":1, "title":"VPS/se (supporti esterni)", "descrizione":"img/valvole_rotative/vpse.txt", "thumb":"img/valvole_rotative/vpse-icona.jpg" ,"url":"img/valvole_rotative/vpse.jpg"},
+        {"id":2, "title":"VPS/sr (Smontaggio Rapido)", "descrizione":"img/valvole_rotative/vpssr.txt" ,"thumb":"img/valvole_rotative/vpssr-icona.jpg", "url":"img/valvole_rotative/vpssr.jpg"},
+        {"id":3, "title":"VPS/td(Trasmissione Diretta)", "descrizione":"img/valvole_rotative/vpstd.txt" ,"thumb":"img/valvole_rotative/vpstd-icona.jpg", "url":"img/valvole_rotative/vpstd.jpg"},
+        {"id":4, "title":"VPR", "descrizione":"img/valvole_rotative/vpr.txt" ,"thumb":"img/valvole_rotative/vpr-icona.jpg", "url":"img/valvole_rotative/vpr.jpg"},
+        {"id":5, "title":"VPR 100 (T.Diretta/Alte Temp.)", "img/valvole_rotative/vpr100.txt":"" ,"thumb":"img/valvole_rotative/vpr100-icona.jpg", "url":"img/valvole_rotative/vpr100.jpg"},
+        {"id":6, "title":"VPR/se (per alte temperature)", "descrizione":"img/valvole_rotative/vpse2.txt", "thumb":"img/valvole_rotative/vpse-icona.jpg" ,"url":"img/valvole_rotative/vpse.jpg"},
+        {"id":7, "title":"VPR/sr (Smontaggio Rapido)", "descrizione":"img/valvole_rotative/vprsrtd.txt", "thumb":"img/valvole_rotative/vprsrtd-icona.gif" ,"url":"img/valvole_rotative/vprsrtd.gif"},
+        {"id":8, "title":"VPR/td (Trasmissione Diretta)", "descrizione":"img/valvole_rotative/vprsrtd_1.txt", "thumb":"img/valvole_rotative/vprsrtd-icona.gif" ,"url":"img/valvole_rotative/vprsrtd.gif"},
+        {"id":9, "title":"RS", "descrizione":"img/valvole_rotative/olocco-vps_1.txt", "thumb":"img/valvole_rotative/olocco-vps-icona.jpg", "url":"img/valvole_rotative/olocco-vps.jpg"}
+        ]
+}

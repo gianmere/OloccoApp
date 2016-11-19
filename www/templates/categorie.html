@@ -1,0 +1,10 @@
+<ion-view view-title="Categorie">
+    <ion-content>
+       <h4 class="title">Categorie</h4>
+                    <ion-list>
+                        <ion-item ng-repeat="category in categories" href="#/app/prodotti/{{category.id}}" ng-click="setCategoria(category)">
+                            {{category.title}}      
+                        </ion-item>
+                    </ion-list>
+    </ion-content>
+</ion-view>

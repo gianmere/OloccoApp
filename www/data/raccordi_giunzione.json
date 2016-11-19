@@ -1,0 +1,7 @@
+{
+    "images": [{"id":0, "title":"CTO", "descrizione":"img/raccordi_giunzione/cto.txt", "thumb":"img/raccordi_giunzione/cto-icona.jpg", "url":"img/raccordi_giunzione/cto.jpg"},
+        {"id":1, "title":"CTL serie leggera", "descrizione":"img/raccordi_giunzione/ctl.txt", "thumb":"img/raccordi_giunzione/ctl-icona.jpg" ,"url":"img/raccordi_giunzione/ctl.jpg"},
+        {"id":2, "title":"CTP Collari a ponte", "descrizione":"img/raccordi_giunzione/ctp.txt", "thumb":"img/raccordi_giunzione/ctp-icona.jpg" ,"url":"img/raccordi_giunzione/ctp.jpg"},
+        {"id":3, "title":"CTR chiusura rapida", "descrizione":"img/raccordi_giunzione/ctr.txt", "thumb":"img/raccordi_giunzione/ctr-icona.jpg" ,"url":"img/raccordi_giunzione/ctr.jpg"}
+        ]
+}
